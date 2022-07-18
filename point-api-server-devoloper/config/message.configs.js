@@ -1,0 +1,15 @@
+module.exports = {
+  smsMessage: "New your password is : ",
+  wrongEmail: "Email is wrong",
+  wrongPass: "Password is wrong",
+  success: "Success",
+  notfound: "NotFound",
+  notSuccess: "NotSuccess",
+  dupemail: "Email already exists",
+  dupProduct: "Product already exists",
+  accessDenied: "Access Denied",
+  notiChangePass: "You are changing your password",
+  system: "System",
+  notiUpdateUser: "You are changing your profile",
+  notichangeGift: "you just changed one product",
+};
